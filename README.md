@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihan-ulker&label=Profile%20views&color=0e75b6&style=flat" alt="alihan-ulker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alihan-ulker" alt="alihan-ulker" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [http://www.ulkeralihan.com/](http://www.ulkeralihan.com/)
 
